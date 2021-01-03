@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Filmku</string>
+    <string name="app_setting">Alih bahasa</string>
+    <string name="btn_more">Selengkapnya</string>
+</resources>

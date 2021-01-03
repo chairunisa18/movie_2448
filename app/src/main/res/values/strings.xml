@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyMovie</string>
+    <string name="app_setting">Change Language</string>
+    <string name="btn_more">Read More</string>
+</resources>
